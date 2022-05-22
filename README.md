@@ -1,4 +1,5 @@
 # react-interview-questions
+### some other references: https://github.com/sudheerj/reactjs-interview-questions/
 ### What is React and what version of react you are using?
 ### What hooks you have used?
 ### Have you heared about useCallback() and useMemo() hook?
